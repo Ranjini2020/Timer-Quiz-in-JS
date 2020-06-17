@@ -10,13 +10,13 @@ It's a timed 5 question True or False quiz on JavaScript fundamentals that store
 ## Acceptance Criteria
 
 When user click Begin button, 
-timer starts and the user is presented with a true or false question 
-WHEN user answer a question 
-The user is probted with correct or wrong explanation
-THEN the user is presented with another question
-When he answered all questions or timer reach 0
+timer starts and the user is presented with a true or false question.
+WHEN user clicks the TRUE/FALSE Button, 
+the user is prompted with correct or wrong explanation.
+THEN the user is presented with another question.
+When he answered all questions or timer reaches 0,
 The user's score is displayed 
-And an option to continue
+And the user is presented with an option to repeat the quiz.
 
 ```
 
