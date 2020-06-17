@@ -1,0 +1,45 @@
+
+        
+        #container{
+            margin : 20px auto;
+            background-color: rgb(223, 117, 117);
+            height: 300px;
+            width : 700px;
+            border-radius: 5px;
+            box-shadow: 0px 5px 15px 0px;
+            position: relative;
+        }   
+       
+        #message001{
+            color: rgb(98, 43, 226);
+            font-size: 20px;
+        }
+       
+        #message003{
+            color: rgb(13, 9, 75);
+            font-size: 20px;
+        }
+
+
+        .buttons001 {
+            background-color: dodgerblue;
+            color: white;
+            width: 70px;
+            height: 30px;
+            border-radius: 5px;
+        }
+
+        .buttons002 {
+            background-color: blue;
+            color: white;
+            width: 70px;
+            height: 30px;
+            border-radius: 5px;
+        }
+
+        #font001 {
+            text-align: center;
+            font-size: large;
+            color: black;
+        }
+    
