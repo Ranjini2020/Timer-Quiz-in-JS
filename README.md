@@ -22,4 +22,4 @@ And an option to continue
 
 Deployed URL
 The URL of the functional, deployed application:
-The URL of the GitHub repository:
+The URL of the GitHub repository: https://github.com/Ranjini2020/Timer-Quiz-in-JS/tree/master
