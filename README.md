@@ -21,5 +21,5 @@ And an option to continue
 ```
 
 Deployed URL
-The URL of the functional, deployed application:
+The URL of the functional, deployed application:https://ranjini2020.github.io/Timer-Quiz-in-JS/
 The URL of the GitHub repository: https://github.com/Ranjini2020/Timer-Quiz-in-JS/tree/master
