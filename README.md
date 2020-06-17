@@ -1,10 +1,10 @@
 # Timer-Quiz-in-JS
-Quiz is created with set time in JavaScript
+Quiz is created with set timer in JavaScript
 
  
 ## User Story
 
-It's a timed 5 question True or False quiz on JavaScript fundamentals that stores high scores
+It's a total of five question True or False quiz on JavaScript fundamentals that stores high scores. The quiz timer is set to 25 seconds!
 
 
 ## Acceptance Criteria
